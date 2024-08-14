@@ -34,6 +34,7 @@ Para el frontend, sigue estos pasos:
 2. **Compila y Carga en Desarrollo**: `npm run serve`
 3. **Compila y Minifica para Producción**: `npm run build`
 4. **Linter y Corrección de Archivos**: `npm run lint`
+5. **Para autilizar el proyecto en el navegador: localhost:8080**
 
 ## Uso
 
